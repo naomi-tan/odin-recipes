@@ -13,6 +13,11 @@ Odin Project link: https://www.theodinproject.com/lessons/foundations-recipes
 ## Lessons Learnt:
 
 ## Log
-### 11/04/2023
+### 11/10/2023
 - Created github repository and cloned.
 - Created README.md file and outlined objectives of project.
+
+### 12/10/2023
+- Created index.html.
+- Filled out boilerplate for index.html.
+- Added heading to index.html.
