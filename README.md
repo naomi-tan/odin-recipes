@@ -4,13 +4,13 @@ First HTML Foundations project in The Odin Project - a simple recipe webiste.
 
 Odin Project link: https://www.theodinproject.com/lessons/foundations-recipes
 
-## Objectives:
+## Objectives
 ### HTML Only
 - Create simple home page containing several links to recipes on separate pages.
 - On each recipe page include an image, ingredients list and step by step instructions.
 - Document consistently with good commits following convention.
 
-## Lessons Learnt:
+## Lessons Learnt
 
 ## Log
 ### 11/10/2023
@@ -18,6 +18,5 @@ Odin Project link: https://www.theodinproject.com/lessons/foundations-recipes
 - Created README.md file and outlined objectives of project.
 
 ### 12/10/2023
-- Created index.html.
-- Filled out boilerplate for index.html.
-- Added heading to index.html.
+- Created index.html with boilerplate and heading.
+- Created chilli-con-carne.html with boilerplate and heading.
