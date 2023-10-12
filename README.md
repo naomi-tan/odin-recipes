@@ -11,6 +11,7 @@ Odin Project link: https://www.theodinproject.com/lessons/foundations-recipes
 - Document consistently with good commits following convention.
 
 ## Lessons Learnt
+- Use commit history as log.
 
 ## Log
 ### 11/10/2023
@@ -20,3 +21,5 @@ Odin Project link: https://www.theodinproject.com/lessons/foundations-recipes
 ### 12/10/2023
 - Created index.html with boilerplate and heading.
 - Created chilli-con-carne.html with boilerplate and heading.
+- Added link from index.html to chilli-con-carne.html.
+- Added chilli recipe content.
