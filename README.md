@@ -23,3 +23,5 @@ Odin Project link: https://www.theodinproject.com/lessons/foundations-recipes
 - Created chilli-con-carne.html with boilerplate and heading.
 - Added link from index.html to chilli-con-carne.html.
 - Added chilli recipe content.
+- Added carbonara recipe.
+- Added sausage and mash recipe.
