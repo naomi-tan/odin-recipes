@@ -9,6 +9,10 @@ Odin Project link: https://www.theodinproject.com/lessons/foundations-recipes
 - Create simple home page containing several links to recipes on separate pages.
 - On each recipe page include an image, ingredients list and step by step instructions.
 - Document consistently with good commits following convention.
+### CSS Addition
+- Create an external style.css file.
+- Add style by changing various properties of elements on the page.
+- Document consistently with good commits following convention.
 
 ## Lessons Learnt
 - Use commit history as log.
@@ -25,3 +29,4 @@ Odin Project link: https://www.theodinproject.com/lessons/foundations-recipes
 - Added chilli recipe content.
 - Added carbonara recipe.
 - Added sausage and mash recipe.
+
