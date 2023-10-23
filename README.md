@@ -16,6 +16,7 @@ Odin Project link: https://www.theodinproject.com/lessons/foundations-recipes
 
 ## Lessons Learnt
 - Use commit history as log.
+- Images and anchors must be placed inside div to align center or other.
 
 ## Log
 ### 11/10/2023
