@@ -1,3 +1,7 @@
+.recipe-img {
+    text-align: center;
+}
+
 .logo-img {
     width: 400px;
     height: auto;
@@ -5,4 +9,45 @@
 
 .logo-header {
     text-align: center;
+}
+
+.back {
+    text-align: right;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(189, 131, 44);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(189, 131, 44);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+a {
+    background-color: rgb(189, 131, 44);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+}
+
+p {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+
+ol {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+
+ul {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
 }
