@@ -13,6 +13,7 @@ Odin Project link: https://www.theodinproject.com/lessons/foundations-recipes
 - Create an external style.css file.
 - Add style by changing various properties of elements on the page.
 - Document consistently with good commits following convention.
+- Add layout and positioning of elements using css.
 
 ## Lessons Learnt
 - Use commit history as log.
