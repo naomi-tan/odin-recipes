@@ -89,3 +89,24 @@ ul {
 .horizontal-ul {
     text-align: center;
 }
+
+.list-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(189, 131, 44);
+    margin: 20px 50px;
+    object-fit: cover;
+}
+
+.list-img:hover {
+    border-width: 10px;
+    border-color: rgb(235, 202, 57);
+}
+
+figcaption {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
