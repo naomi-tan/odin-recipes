@@ -6,29 +6,24 @@ Odin Project link: https://www.theodinproject.com/lessons/foundations-recipes
 
 ## Objectives
 ### HTML Only
-- Create simple home page containing several links to recipes on separate pages.
+- Create a simple website using basic HTML elements.
+- Create a simple home page containing several links to recipes on separate pages.
 - On each recipe page include an image, ingredients list and step by step instructions.
 - Document consistently with good commits following convention.
 ### CSS Addition
 - Create an external style.css file.
-- Add style by changing various properties of elements on the page.
+- Add basic styling by changing various properties of elements on the page.
+- Add basic layout and positioning of elements using CSS.
 - Document consistently with good commits following convention.
-- Add layout and positioning of elements using css.
 
-## Lessons Learnt
-- Use commit history as log.
-- Images and anchors must be placed inside div to align center or other.
+## Description
+### Homepage (index.html)
+![alt text](imgs/index-ss.png)
 
-## Log
-### 11/10/2023
-- Created github repository and cloned.
-- Created README.md file and outlined objectives of project.
+### Chilli Con Carne Recipe (chilli-con-carne.html)
 
-### 12/10/2023
-- Created index.html with boilerplate and heading.
-- Created chilli-con-carne.html with boilerplate and heading.
-- Added link from index.html to chilli-con-carne.html.
-- Added chilli recipe content.
-- Added carbonara recipe.
-- Added sausage and mash recipe.
 
+### Carbonara Recipe (carbonara.html)
+
+
+### Sausage and Mash Recipe (sausage-and-mash.html)
