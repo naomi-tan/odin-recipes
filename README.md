@@ -18,12 +18,13 @@ Odin Project link: https://www.theodinproject.com/lessons/foundations-recipes
 
 ## Screenshots
 ### Homepage (index.html)
-
-
-### Chilli Con Carne Recipe (chilli-con-carne.html)
-
-
-### Carbonara Recipe (carbonara.html)
 ![alt text](imgs/index-screenshot.png)
 
+### Chilli Con Carne Recipe (chilli-con-carne.html)
+![alt text](imgs/chilli-screenshot.png)
+
+### Carbonara Recipe (carbonara.html)
+![alt text](imgs/carbonara-screenshot.png)
+
 ### Sausage and Mash Recipe (sausage-and-mash.html)
+![alt text](imgs/sausage-screenshot.png)
