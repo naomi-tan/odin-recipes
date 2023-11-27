@@ -16,14 +16,14 @@ Odin Project link: https://www.theodinproject.com/lessons/foundations-recipes
 - Add basic layout and positioning of elements using CSS.
 - Document consistently with good commits following convention.
 
-## Description
+## Screenshots
 ### Homepage (index.html)
-![alt text](imgs/index-screenshot.png)
+
 
 ### Chilli Con Carne Recipe (chilli-con-carne.html)
 
 
 ### Carbonara Recipe (carbonara.html)
-
+![alt text](imgs/index-screenshot.png)
 
 ### Sausage and Mash Recipe (sausage-and-mash.html)
