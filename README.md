@@ -18,7 +18,7 @@ Odin Project link: https://www.theodinproject.com/lessons/foundations-recipes
 
 ## Description
 ### Homepage (index.html)
-![alt text](imgs/index-ss.png)
+![alt text](imgs/index-screenshot.png)
 
 ### Chilli Con Carne Recipe (chilli-con-carne.html)
 
